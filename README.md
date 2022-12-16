@@ -22,7 +22,7 @@
 
 ### <div align="center">[Click here to view my Portfolio](https://Probacon.ml)</div>  
 
-![](https://discord.c99.nl/widget/theme-3/806810037459746846.png) 
+![](https://cdn.discordapp.com/attachments/1047209643186860122/1048976160123518996/Im_not_a_hackers_rankcard.png) 
  
 ## 🔖 My Statistics
 &nbsp;
