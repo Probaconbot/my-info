@@ -15,7 +15,7 @@
 <a href="[https://twitter.com/br_blacky](https://twitter.com/Mrhacker)"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Telegram"/></a>
 <a href="https://youtube.com/@Probaconbot"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="Telegram"/></a>
 <a href="https://sylanio.tk/"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Discord"/></a>
-<a href="mailto: sylaniodevelopment@gmail.com"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
+<a href="mailto: Mrhacker-@outlook.de"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
 </p>
 
  ## <div align="center">I'm Mike, mainly a Deveoper! Working since 2021 on Bots 🚀</div>  
@@ -30,10 +30,10 @@
     <a href="https://github.com/Probaconbot/">
         <img src="https://github-readme-stats.vercel.app/api?username=Probaconbot&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
-    <a href="https://github.com/MaxGamingOfficalYT/">
+    <a href="https://github.com/Probaconbot/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGamingOfficalYT&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
-    <a href="https://github.com/MaxGamingOfficalYT/">
+    <a href="https://github.com/Probaconbot/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Probaconbot&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
    <a href="https://github.com/Probaconbot"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Probaconbot&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
